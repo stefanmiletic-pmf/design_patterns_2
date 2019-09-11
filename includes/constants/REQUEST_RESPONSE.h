@@ -1,0 +1,3 @@
+#pragma once
+
+enum REQUEST_RESPONSE { SOLVED, NOT_SOLVED};
